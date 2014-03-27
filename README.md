@@ -1,4 +1,4 @@
-knockoutt-relational
+knockout-relational
 =====================
 
 javascript-relationalで取り込んだプロパティをknockoutのobservableに変換するプラグイン  
