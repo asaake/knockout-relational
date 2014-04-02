@@ -1,0 +1,15 @@
+{
+  "name": "knockout-relational",
+  "version": "0.0.1",
+  "homepage": "https://github.com/asaake/knockout-relational",
+  "authors": [
+    "asaake <asaake88@gmail.com>"
+  ],
+  "main": "src/knockout-es5-relational-model-plugin.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
