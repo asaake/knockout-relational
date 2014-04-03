@@ -1,0 +1,10 @@
+{
+    "main": "knockout-es5-relational-model-plugin.js",
+    "dest": "knockout-es5-relational-model-plugin.js",
+    "paths": [
+      "app/assets/javascripts",
+      "bower_components",
+      "spec/assets",
+      "spec/assets/javascripts"
+    ]
+}

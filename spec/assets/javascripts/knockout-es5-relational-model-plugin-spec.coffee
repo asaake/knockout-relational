@@ -1,4 +1,6 @@
-describe "Model", () ->
+#= require knockout-es5-relational-model-plugin.coffee
+
+describe "Es5Model", () ->
 
   describe "コモンメソッド", () ->
   

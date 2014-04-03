@@ -1,0 +1,13 @@
+{
+  "assets": {
+    "knockout-es5-relational-model-plugin.js": "knockout-es5-relational-model-plugin-a0b0097f106f761a88f9b7d21e1db5cb.js"
+  },
+  "files": {
+    "knockout-es5-relational-model-plugin-a0b0097f106f761a88f9b7d21e1db5cb.js": {
+      "logical_path": "knockout-es5-relational-model-plugin.js",
+      "mtime": "2014-04-02T07:00:37.000Z",
+      "size": 777,
+      "digest": "a0b0097f106f761a88f9b7d21e1db5cb"
+    }
+  }
+}

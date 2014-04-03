@@ -1,3 +1,5 @@
+#= require knockout-relational-model-plugin.coffee
+
 describe "Model", () ->
 
   describe "コモンメソッド", () ->

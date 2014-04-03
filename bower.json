@@ -5,11 +5,29 @@
   "authors": [
     "asaake <asaake88@gmail.com>"
   ],
-  "main": "src/knockout-es5-relational-model-plugin.js",
+  "main": "dest/knockout-es5-relational-model-plugin.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
+    "app",
+    "bower_components",
+    "manifest",
     "node_modules",
-    "bower_components"
-  ]
+    "spec",
+    "bower.json",
+    "easy-mincer.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "console-polyfill": "*",
+    "sugar": "*",
+    "knockout": "*",
+    "javascript-relational": "git://github.com/asaake/javascript-relational"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "sinon": "*",
+    "expect": "*",
+    "sinon-expect": "*"
+  }
 }

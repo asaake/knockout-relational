@@ -1,0 +1,20 @@
+{
+  "name": "knockout-relational",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "jade": "*",
+    "coffee-script": "*",
+    "less": "*",
+    "bower": "*"
+  },
+  "devDependencies": {
+    "easy-mincer": "*"
+  },
+  "scripts": {
+    "compile": "coffee node_modules/easy-mincer/lib/compile.coffee",
+    "start": "coffee node_modules/easy-mincer/lib/server.coffee"
+  },
+  "author": "asaake",
+  "license": "MIT"
+}
