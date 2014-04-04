@@ -9,11 +9,10 @@
     "bower": "*"
   },
   "devDependencies": {
-    "easy-mincer": "*"
   },
   "scripts": {
-    "compile": "coffee node_modules/easy-mincer/lib/compile.coffee",
-    "start": "coffee node_modules/easy-mincer/lib/server.coffee"
+    "compile": "easy-mincer compile",
+    "start": "easy-mincer start"
   },
   "author": "asaake",
   "license": "MIT"
